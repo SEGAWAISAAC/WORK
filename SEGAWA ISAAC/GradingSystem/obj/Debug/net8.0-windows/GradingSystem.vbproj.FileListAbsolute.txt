@@ -1,0 +1,64 @@
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+C:\Users\Collin Joe\source\repos\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
+D:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+D:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+D:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+D:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+D:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+D:\Dartin\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
+F:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+F:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+F:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+F:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+F:\Dartin\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+F:\Dartin\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.Form1.resources
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\derek\iraguha derrick\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
